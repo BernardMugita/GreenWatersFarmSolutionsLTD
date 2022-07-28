@@ -1,0 +1,168 @@
+.About{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    height: auto;
+    margin-top: -75px;
+    padding: 10px;
+}
+.about-us{
+    padding: 10px;
+    height: auto;
+    width: 91.5%;
+    margin: 65.5px;
+    margin-top: 70px;
+    margin-bottom: -10px;
+}
+.about-text{
+    background-color: #fff;
+    padding: 30px;
+}
+.about-text h1{
+    border: none;
+    background-color: rgb(0,78,13);
+    color: white;
+}
+.about-text .row p{
+    background-color: rgb(0,78,13);
+    box-shadow: 2px grey;
+    padding: 30px;
+    border: 1px solid grey;
+    text-align: left;
+    color: #fff;
+    height: 450px;
+}
+.summary{
+    background-color: rgb(0,78,13);
+    width: 90%;
+    margin-left: 75px;
+    padding: 50px;
+    color: #fff;
+}
+.summary .intro p{
+    width: 60%;
+    margin-left: 210px;
+}
+.summary .intro h1{
+    margin-top: 20px;
+    background-color: white;
+    color: rgb(0,78,13);
+}
+.sumbody h2{
+    text-decoration: underline;
+}
+.sumbody .row .col-sm-4{
+    background-color: #fff;
+    box-shadow: 2px grey;
+    padding: 20px;
+    border: 1px solid grey;
+    text-align: left;
+    color: rgb(0,78,13);
+    height: 450px;
+    width: 365px;
+    margin: 5px;
+}
+.sumbody .col-sm-4 h4{
+    background-color: rgb(0,78,13);
+    color:#fff;
+    text-align: center;
+}
+.sumbody .col-sm-4 img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.four{
+    background-color: #fff;
+    width: 90%;
+    margin-left: 75px;
+    padding: 50px;
+    color: rgb(0,78,13);
+}
+.four p{
+    margin: 10px;
+    padding: 10px;
+}
+.toma{
+    background-color: rgb(0,78,13);
+    width: 90%;
+    margin-left: 75px;
+    padding: 50px;
+    color: #fff;
+}
+.toma img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.animals{
+    background-color: #fff;
+    width: 90%;
+    margin-left: 75px;
+    padding: 50px;
+    color: rgb(0,78,13);
+}
+.animals .row .col-md-4{
+    background-color: rgb(0,78,13);
+    box-shadow: 2px grey;
+    padding: 20px;
+    border: 1px solid grey;
+    text-align: left;
+    color: #fff;
+    height: 450px;
+    width: 365px;
+    margin: 5px;
+}
+.animals .col-md-4 h4{
+    background-color: #fff;
+    color: rgb(0,78,13);
+    text-align: center;
+}
+.animals .col-md-4 img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.fodder{
+    background-color: rgb(0,78,13);
+    width: 90%;
+    margin-left: 75px;
+    padding: 50px;
+    color: #fff;
+}
+.fodder .row .col-lg-6{
+    background-color: #fff;
+    box-shadow: 2px grey;
+    padding: 20px;
+    border: 1px solid grey;
+    text-align: left;
+    color: rgb(0,78,13);
+    height: 450px;
+    width: 500px;
+    margin-left: 50px;
+}
+.fodder .col-lg-6 h4{
+    background-color: rgb(0,78,13);
+    color: #fff;
+    text-align: center;
+}
+.fodder .col-lg-6 img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.support{
+    background-color: #fff;
+    width: 90%;
+    margin-left: 75px;
+    padding: 50px;
+    color: rgb(0,78,13);
+    margin-bottom: 20px;
+}
+.support img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.support p{
+    padding: 50px;
+}
